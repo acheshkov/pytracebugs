@@ -62,5 +62,3 @@ The dataset tables have the following columns:
 * `path_to_source_file` - path to the file with source code of the module where the snippet is located; 
 * `commit` - the last commit where the snippet was changed; 
 * `path_to_snippet_before_merge` - path to the file with source code of the snippet.
-
-
