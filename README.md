@@ -13,9 +13,9 @@ code with bugs whereas the second one called `stable_dataset` is composed of sni
 Both these parts of the PyTraceBugs dataset are composed of training, validation and test sets 
 to be used to maintain common machine learning workflow.
 
-Principles to collect the dataset are reported in the accompanied paper:
+Principles to collect the dataset are reported in the accompanied paper. Please cite it if you find the dataset useful:
 
-Elena~N.~Akimova, Alexander~Yu.~Bersenev, Artem~A.~Deikov, Konstantin~S.~Kobylkin, Anton~V.~Konygin, Ilya~P.~Mezentsev, Vladimir~E.~Misilov 
+E.N. Akimova, A.Yu. Bersenev, A.A. Deikov, K.S. Kobylkin, A.V. Konygin, I.P. Mezentsev, V.E. Misilov 
 PyTraceBugs: A Large Python Code Dataset for Supervised Machine Learning in Software Defect Prediction
 
 
