@@ -16,7 +16,7 @@ to be used to maintain common machine learning workflow.
 Principles to collect the dataset are reported in the accompanied paper. Please cite it if you find the dataset useful:
 
 E.N. Akimova, A.Yu. Bersenev, A.A. Deikov, K.S. Kobylkin, A.V. Konygin, I.P. Mezentsev, V.E. Misilov 
-PyTraceBugs: A Large Python Code Dataset for Supervised Machine Learning in Software Defect Prediction
+PyTraceBugs: A Large Python Code Dataset for Supervised Machine Learning in Software Defect Prediction // Proceedings of the 28th Asia-Pacific Software Engineering Conference, 6th - 9th December 2021, accepted
 
 
 ## Description of buggy dataset
