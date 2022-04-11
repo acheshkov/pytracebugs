@@ -1,5 +1,9 @@
 # The PyTraceBugs dataset for software defect prediction
 
+## Download
+
+https://pytracebugs-dataset.obs.ap-southeast-3.myhuaweicloud.com/pytracebugs_dataset_v1.rar
+
 ## Dataset description
 
 The dataset contains Python source code collected from public Github repositories (with proper licensing, e.g. Apache, MIT, BSD etc) at the granularity of functions and methods (snippets).
